@@ -1,3 +1,8 @@
+build/
+.idea
+local.properties
+.gradle
+
 bin/*
 !bin/MCPDict.apk
 gen
